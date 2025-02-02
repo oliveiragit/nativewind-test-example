@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should set correct styles for black background and white text using NativeWind 1`] = `
+<View
+  className="flex-1 items-center justify-center self-stretch bg-black"
+  testID="black-view"
+>
+  <Text
+    className="text-white"
+  >
+    white text
+  </Text>
+</View>
+`;
